@@ -1,0 +1,28 @@
+{
+  "name": "global-bank-automation",
+  "version": "1.0.0",
+  "description": "Automation Framework using playwright and TypeScript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "winston": "^3.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minakshi01-tech/Global-Bank-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Minakshi01-tech/Global-Bank-Automation/issues"
+  },
+  "homepage": "https://github.com/Minakshi01-tech/Global-Bank-Automation#readme"
+}
